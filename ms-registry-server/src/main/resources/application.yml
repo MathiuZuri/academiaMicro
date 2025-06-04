@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms-registry-service
+    name: acad-registry-service
   profiles:
     active: development
   config:
